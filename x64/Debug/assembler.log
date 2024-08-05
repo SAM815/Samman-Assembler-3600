@@ -1,0 +1,7 @@
+﻿  Assem.cpp
+  Assembler.cpp
+  FileAccess.cpp
+  Instruction.cpp
+  SymTab.cpp
+  Generating Code...
+  assembler.vcxproj -> C:\Users\nbhat\Desktop\cpp_test\assembler\x64\Debug\assembler.exe
